@@ -29,3 +29,25 @@ In this project, we simulate:
 - How CPU gives time to each process
 - How tasks run one by one
 - import time
+  
+## ⚙️ Features
+
+- Simulates Round Robin CPU Scheduling
+- Shows process execution order
+- Handles multiple processes
+- Demonstrates time-sharing concept
+  
+## 📊 Applications
+
+- OS learning projects
+- College assignments
+- Interview preparation
+  
+## 📌 Output Example
+
+- Process 1 running for 2 sec
+- Process 2 running for 2 sec
+- Process 3 running for 2 sec
+- Process 1 finished execution
+...
+All processes completed
